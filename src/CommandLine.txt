@@ -1,0 +1,7 @@
+// command line for windows
+
+javac Copy.java
+
+java Copy <SourceFile> <destinationFile>
+
+java Copy D:\IdeaProjects\CopyFile\src\Source.txt D:\IdeaProjects\CopyFile\src\destination.txt
